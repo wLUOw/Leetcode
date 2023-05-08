@@ -11,4 +11,8 @@ Leetcode exercising! \
 2023/05/02 970  AC [05/03] \
 2023/05/03 1003 AC \
 2023/05/04 2106 AC (Binary Search) \
-2023/05/05 2432 AC
+2023/05/05 2432 AC \
+2023/05/06 1419 AC \
+2023/05/07 1010 AC (use long instead of int) \
+2023/05/08 1263 TLE: push boxes, difficult! \
+2023/05/09 2437 AC
