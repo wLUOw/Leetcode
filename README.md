@@ -15,4 +15,7 @@ Leetcode exercising! \
 2023/05/06 1419 AC \
 2023/05/07 1010 AC (use long instead of int) \
 2023/05/08 1263 TLE: push boxes, difficult! \
-2023/05/09 2437 AC
+2023/05/09 2437 AC \
+2023/05/10 1015 AC \
+2023/05/11 1016 AC \
+2023/05/12 1330 AC
