@@ -14,7 +14,7 @@ Leetcode exercising! \
 2023/05/05 2432 AC \
 2023/05/06 1419 AC \
 2023/05/07 1010 AC (use long instead of int) \
-2023/05/08 1263 TLE: push boxes, difficult! \
+2023/05/08 1263 TLE (push boxes, difficult!) \
 2023/05/09 2437 AC \
 2023/05/10 1015 AC \
 2023/05/11 1016 AC \
@@ -37,4 +37,7 @@ Weekly 345 \
 4  6432  AC  1:13:21 \
 \
 2023/05/15 1072 AC \
-2023/05/16 1335 AC (dp, reference sample code)
+2023/05/16 1335 AC (dp, reference sample code) \
+2023/05/17 2446 AC \
+2023/05/18 1073 AC (negabinary addition) \
+2023/05/19 1079 AC (dfs) \
