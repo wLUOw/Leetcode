@@ -48,6 +48,6 @@ Weekly 346 \
 2  6454  AC  0:09:35 \
 3  6441  AC  0:54:02 \
 4  6442 \
-6442 WA (too difficult)
+6442 WA (too difficult) \
 \
 2023/05/21 LCP33 
