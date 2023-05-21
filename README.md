@@ -50,4 +50,4 @@ Weekly 346 \
 4  6442 \
 6442 WA (too difficult) \
 \
-2023/05/21 LCP33 
+2023/05/21 LCP33 AC \
