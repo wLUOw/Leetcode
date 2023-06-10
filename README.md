@@ -70,7 +70,7 @@ Weekly 347 \
 2023/05/29 2455 AC \
 2023/05/30 1110 AC delete treenode \
 2023/05/31 1130 AC monotonic stack \
-
+\
 2023/06/01 2517 AC binary-search \
 2023/06/02 2559 AC prefix-sum \
 2023/06/03 1156 WA \
@@ -88,3 +88,13 @@ Weekly 348 \
 2023/06/07 2611 AC \
 2023/06/08 1240 AC memo-search \
 2023/06/09 2699 WA & TLE dijkstra \
+2023/06/10 1170 AC \
+\
+BiWeekly 106 \
+1364/2346  7pts  1:20:09 \
+1  6461  AC  0:25:36 \
+2  6425  AC  1:00:09[4] \
+3  6426  \
+4  6463  \
+\
+2023/06/11 1171 AC linklist prefix sum \
